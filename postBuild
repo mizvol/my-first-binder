@@ -1,6 +1,2 @@
 #!/bin/bash
 wget -q -O data_from_postBuild.csv "https://drive.google.com/uc?export=download&id=1mI2sCdqX4azTPf9btA05jJ_eKEJe82VI"
-
-echo "deb http://repo.mongodb.org/apt/ubuntu xenial/mongodb-org/3.2 multiverse"
-
-sudo tee /etc/apt/sources.list.d/mongodb-org-3.2.list
