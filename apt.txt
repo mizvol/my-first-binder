@@ -1,2 +1,2 @@
-mongodb-org
+-y mongodb-org
 
