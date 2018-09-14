@@ -1,1 +1,2 @@
+#!/bin/bash
 wget -q -O data_from_postBuild.csv "https://drive.google.com/uc?export=download&id=1mI2sCdqX4azTPf9btA05jJ_eKEJe82VI"
