@@ -1,0 +1,5 @@
+name: mongodb-environment
+channels:
+  - conda-forge
+dependencies:
+  - mongodb
